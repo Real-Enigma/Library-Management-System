@@ -17,13 +17,13 @@ The Library Management System is a web-based application that allows users to ma
 - **Database**: JSON files (books.json, journals.json) for storing book and journal data
 - **Dependencies**: This project utilizes various npm packages such as Express.js, body-parser, and nodemon.
 
-## Contributors
-- **Anand Abraham**
-- **Johann Varghese**
-
 ## Database
 - **Database name**:Library
 - **Collection names**:Books, Journals
+
+## Contributors
+- **Anand Abraham**
+- **Johann Varghese**
 
 ## Screenshots
 ![image_2023-06-04_165933087](https://github.com/Real-Enigma/LMS/assets/117971048/9fd61dea-9a36-4acf-9e04-81592594e860)
