@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "Name": "Journal of Science",
+        "publicationDate": "2022-01-01",
+        "author": ["Various"],
+        "issue_number": 1,
+        "available_copies": 3
+    },
+    {
+        "id": "2",
+        "Name": "Journal of Medicine",
+        "publicationDate": "2021-07-15",
+        "author": ["John Smith"],
+        "issue_number": 2,
+        "available_copies": 5
+    },
+    {
+        "id": "3",
+        "Name": "Journal of History",
+        "publicationDate": "2023-03-10",
+        "author": ["Jane Doe"],
+        "issue_number": 1,
+        "available_copies": 2
+    }
+]  

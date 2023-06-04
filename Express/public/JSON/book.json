@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "Name": "Introduction to Programming",
+        "publicationDate": "2020-05-15",
+        "author": ["John Smith"],
+        "isbn": "978-0-123456-78-9",
+        "available_copies": 5
+    },
+    {
+        "id": "2",
+        "Name": "Data Structures and Algorithms",
+        "publicationDate": "2019-09-30",
+        "author": ["Jane Doe"],
+        "isbn": "978-0-987654-32-1",
+        "available_copies": 2
+    },
+    {
+        "id": "3",
+        "Name": "Database Management Systems",
+        "publicationDate": "2021-11-20",
+        "author": ["David Johnson"],
+        "isbn": "978-0-246810-12-3",
+        "available_copies": 10
+    }
+]
