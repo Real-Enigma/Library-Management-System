@@ -28,7 +28,7 @@ The Library Management System is a web-based application that allows users to ma
 
 ## Contributors
 - **Anand Abraham**
-- **Johann Varghese**
+- **Johann Varghese George**
 
 ## Screenshots
 ![image_2023-06-04_165933087](https://github.com/Real-Enigma/LMS/assets/117971048/9fd61dea-9a36-4acf-9e04-81592594e860)
